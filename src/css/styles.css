@@ -119,7 +119,7 @@ footer{
         rgba(0,0,0,.4),
         rgba(0,0,0,.4)
     ),
-    url("../src/assets/img/FONDO-PAISAJE.PNG");
+    url("../assets/img/FONDO-PAISAJE.png");
 
     background-size: cover;
     background-position: center;
